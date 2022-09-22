@@ -5,4 +5,4 @@ for i in range(len(x)):
     if x[i] == ':':
         x.replace(":", "%")
         y += 1
-print(str(y), "сумма замены")
+print(str(y), "кол во замены")
